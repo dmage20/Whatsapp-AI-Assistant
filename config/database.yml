@@ -79,7 +79,4 @@ test:
 #     url: <%= ENV['DATABASE_URL'] %>
 #
 production:
-  <<: *default
-  database: chatbot_whatsapp_production
-  username: chatbot_whatsapp
-  password: <%= ENV['CHATBOT_WHATSAPP_DATABASE_PASSWORD'] %>
+  url: <%= ENV['DATABASE_URL'] %>
