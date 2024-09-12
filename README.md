@@ -1,7 +1,6 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a repo created as a learning experience that explores the possibilities of using LLMs to behave as a personal assistant by absorbing user uploaded documents. The interacts with the app through WhatsApp.
 
 Things you may want to cover:
 
